@@ -1,0 +1,9 @@
+c:\users\fernando\documents\visual studio 2015\Projects\Galeria_De_Fotos2\Galeria_De_Fotos2\bin\Debug\Galeria_De_Fotos2.exe.config
+c:\users\fernando\documents\visual studio 2015\Projects\Galeria_De_Fotos2\Galeria_De_Fotos2\bin\Debug\Galeria_De_Fotos2.exe
+c:\users\fernando\documents\visual studio 2015\Projects\Galeria_De_Fotos2\Galeria_De_Fotos2\bin\Debug\Galeria_De_Fotos2.pdb
+c:\users\fernando\documents\visual studio 2015\Projects\Galeria_De_Fotos2\Galeria_De_Fotos2\obj\Debug\Galeria_De_Fotos2.csprojResolveAssemblyReference.cache
+c:\users\fernando\documents\visual studio 2015\Projects\Galeria_De_Fotos2\Galeria_De_Fotos2\obj\Debug\Galeria_De_Fotos2.Form1.resources
+c:\users\fernando\documents\visual studio 2015\Projects\Galeria_De_Fotos2\Galeria_De_Fotos2\obj\Debug\Galeria_De_Fotos2.Properties.Resources.resources
+c:\users\fernando\documents\visual studio 2015\Projects\Galeria_De_Fotos2\Galeria_De_Fotos2\obj\Debug\Galeria_De_Fotos2.csproj.GenerateResource.Cache
+c:\users\fernando\documents\visual studio 2015\Projects\Galeria_De_Fotos2\Galeria_De_Fotos2\obj\Debug\Galeria_De_Fotos2.exe
+c:\users\fernando\documents\visual studio 2015\Projects\Galeria_De_Fotos2\Galeria_De_Fotos2\obj\Debug\Galeria_De_Fotos2.pdb
